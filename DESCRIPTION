@@ -1,0 +1,13 @@
+Package: goaltimepace
+Type: Package
+Title: Calculates Race Pace Split Times for Swimming
+Version: 0.1.0
+Author: c(person("Caitlin", "Weigel", email = "caitlinweigel@college.harvard.edu", role = c("aut", "cre")),
+          person("Ayush", "Nair", email = "ayushnair.noida@gmail.com", role = c("aut", "cre"))
+Maintainer: Caitlin <caitlinweigel@college.harvard.edu>, Ayush <ayushnair.noida@gmail.com>
+Description: This package contains functions that calculate what pace a swimmer should swim each 50 of their race in order to hit their goal time. 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
